@@ -117,6 +117,6 @@ The dashboard helps analyze:
 
 ## 👨‍💻 Author
 
-Shivansh Deshwal
+Vanshika Panwar
 
 Data Science Student | Technology Enthusiast
